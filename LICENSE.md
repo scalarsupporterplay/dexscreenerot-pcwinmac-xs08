@@ -1,4 +1,4 @@
-# 
+# 最佳 dexscreener sniper bot 附加组件 Mac OS版 | 轻量 dexscreener sniper bot 附加组件 PC Windows版。集成 流动性池扫描 和 实时交易，跨平台性能最大化。
 
 
 
